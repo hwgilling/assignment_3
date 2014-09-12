@@ -3,11 +3,12 @@ Rails.application.routes.draw do
 
   get 'welcome/index'
 
-  get 'some_pages/whatever'
+  get 'static_pages/one'
 
-  get 'static_pages/whatever'
+  get 'static_pages/two'
 
-  get 'static_pages/welcome'
+  get 'static_pages/three'
+
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
