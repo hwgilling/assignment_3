@@ -3,9 +3,9 @@ Rails.application.routes.draw do
 
   get 'welcome/index'
 
-  get 'static_pages/one'
+  get 'static_pages/assignment'
 
-  get 'static_pages/two'
+  get 'static_pages/submission'
 
   get 'static_pages/three'
 

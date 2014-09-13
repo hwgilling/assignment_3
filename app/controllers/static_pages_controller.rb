@@ -1,8 +1,8 @@
 class StaticPagesController < ApplicationController
-  def one
+  def assignment
   end
 
-  def two
+  def submission
   end
 
   def three
